@@ -25,7 +25,7 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 </table>
 </center>
 
-<small> Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino) <small>
+<small> Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino) </small>
 
 
 ## Pautas
