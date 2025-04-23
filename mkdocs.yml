@@ -10,6 +10,7 @@ nav:
     - Dados na Escalação de Jogadores: dados-escalacao-jogadores.md
     - Dados na Contratação de Jogadores: dados-contratacao.md
     - Dados na Análise Tática: dados-analise-tatica.md
+    - Estudo de Caso Real: estudo-caso-real.md
 
 theme: 
   name: material
