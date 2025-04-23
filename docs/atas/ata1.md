@@ -1,6 +1,6 @@
 # Reunião 23/04/2025
 
-Início: XX:XX | Fim: XX:XX
+Início: 16:20 | Fim: XX:XX
 <!-- Este é um arquivo base, para criar uma ata, basta copiá-lo e preencher os dados da reunião -->
 
 ## Participantes Convocados
@@ -26,7 +26,6 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 </center>
 
 <small> Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino) <small>
-
 
 ## Pautas
 

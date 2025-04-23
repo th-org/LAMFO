@@ -2,9 +2,10 @@ site_name: DOCUMENTAÇÃO - LAMFO
 repo_url: https://github.com/th-org/LAMFO
 
 nav: 
-  - Home: index.md
+  - Cronograma de apresentação: index.md
   - Atas:
     - Ata modelo: atas/modelo.md
+    - Ata 1: atas/ata1.md
 theme: 
   name: material
   font:
@@ -30,3 +31,4 @@ icon:
 
 include: 
   - README.md
+
