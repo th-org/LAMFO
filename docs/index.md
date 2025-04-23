@@ -15,8 +15,8 @@ Tempo | Atividade | Responsável | Descrição |
 5–15 min | Dados na Escalação de Jogadores | Pessoa Primária<br><br>Marcus Vinícius  | Apresentar como clubes usam estatísticas para escolher titulares (ex: minutos jogados, índice de desempenho).|
 15–25 min | Dados na Contratação de Atletas | Eduardo Lapa<br><br> Thales Euflauzino  | Mostrar como análises preditivas, scouting baseado em dados e inteligência artificial auxiliam em contratações.|
 25–35 min | Dados na Análise Tática | Marcus Vinícius <br><br> Pessoa Secundária   | Explicar como softwares de análise (ex: Instat, Wyscout) ajudam técnicos a montar esquemas táticos com base em dados.|
-35–50 min | Estudo de Caso | Pessoa Primária<br><br>Pessoa Secundária | Apresentar um time que usa dados de forma exemplar (ex: Moneyball no beisebol, Brentford na Premier League, NBA).|
-50–60 min | Encerramento  | Pessoa Primária<br><br>Eduardo Lapa  | Fechamento com resumo das seções, reforço das ideias-chave e reflexão sobre o tema.|
+35–50 min | Estudo de Caso Real | Lara Siqueira<br><br>Pessoa Secundária | Apresentar um time que usa dados de forma exemplar (ex: Moneyball no beisebol, Brentford na Premier League, NBA).|
+50–60 min | Encerramento  | Lara Siqueira<br><br>Eduardo Lapa  | Fechamento com resumo das seções, reforço das ideias-chave e reflexão sobre o tema.|
 
 | Versão | Data | Descrição | Autor(es) |
 | ------ | ---- | --------- | --------- |
