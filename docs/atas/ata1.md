@@ -20,7 +20,6 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
   <tr><td>Eduardo do Vale Lapa</td><td>✅</td></tr>
   <tr><td>Lara Santos Lages Siqueira</td><td>❌</td></tr>
   <tr><td>Marcus Vinicius Santos da Silva</td><td>✅</td></tr>
-  <tr><td>Paulo Henrique Almeida da Silva</td><td>❌</td></tr>
   <tr><td>Thales Henrique Euflauzino dos Santos</td><td>✅</td></tr>
 </table>
 </center>
