@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# Como Dados Mudaram os Esportes
+# Como os Dados Mudaram os Esportes
 
 ## Sobre
 
