@@ -20,7 +20,7 @@ Esta oficina faz parte do processo seletivo do laboratório [LAMFO](https://lamf
                 <h5 class="text-center">Thales<br>Euflauzino</h5>
         </div>
         <div style="text-align: center;">
-                <img src="assets/eduardo.png" alt="Foto Eduardo Lapa" width="130px" height="50%" style="border-radius:20%; border: 2px solid black"/>
+                <img src="https://raw.githubusercontent.com/th-org/LAMFO/refs/heads/main/docs/assets/eduardo.png" alt="Foto Eduardo Lapa" width="130px" height="50%" style="border-radius:20%; border: 2px solid black"/>
                 <h5 class="text-center">Eduardo<br>Lapa</h5>
         </div>
     </div>
