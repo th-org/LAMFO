@@ -14,6 +14,7 @@ nav:
   - Atas:
     - Ata modelo: atas/modelo.md
     - Ata 1: atas/ata1.md
+  - Artigos e Leituras: artigos.md
 
 theme: 
   name: material
