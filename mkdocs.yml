@@ -12,9 +12,9 @@ nav:
     - Dados na Análise Tática: dados-analise-tatica.md
     - Estudo de Caso Real: estudo-caso-real.md
   - Atas:
-    - Ata modelo: atas/modelo.md
     - Ata 1: atas/ata1.md
     - Ata 2: atas/ata2.md
+    - Ata modelo: atas/modelo.md
   - Artigos e Leituras: artigos.md
 
 theme: 
