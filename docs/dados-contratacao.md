@@ -21,7 +21,9 @@ As decisões ficavam, em grande parte, nas mãos do diretor de futebol e do téc
 * Portanto, a evolução dos departamentos de dados no futebol inglês mostra que, no cenário atual, **dados e intuição não são concorrentes, mas aliados**. O futebol moderno exige cada vez mais decisões embasadas, e os clubes que souberem usar bem essa ferramenta terão vantagem dentro e fora de campo.
 
 ![](./assets/image4.png)
- 
+
+<p style="font-size: 12px;"> Fonte: <a href=https://www.nytimes.com/athletic/5697684/2024/09/03/football-analytics-uk-evolution/.>How data departments have evolved and spread across English football clubs.</a></p>
+
 **Dado de impacto:**
 
 - Moisés Caicedo contratado pelo Brighton por 6 milhões de Euros do Independiente Del Valle e vendido por 115 milhões de Libras junto ao Chelsea.
