@@ -23,15 +23,10 @@ Esta oficina faz parte do processo seletivo do laboratório [LAMFO](https://lamf
                 <img src="https://raw.githubusercontent.com/th-org/LAMFO/refs/heads/main/docs/assets/eduardo.png" alt="Foto Eduardo Lapa" width="130px" height="50%" style="border-radius:20%; border: 2px solid black"/>
                 <h5 class="text-center">Eduardo<br>Lapa</h5>
         </div>
-    </div>
-    <div style="display: flex; align-items: end; justify-content: center; gap: 30px;">
         <div style="text-align: center;">
+            <a href="https://github.com/thaleseuflauzino">
                 <img src="assets/marcos.jpg" alt="Foto Marcos" width="130px" height="50%" style="border-radius:20%; border: 2px solid black"/>
                 <h5 class="text-center">Marcus<br>Vinícius</h5>
-        </div>
-        <div style="text-align: center;">
-                <img src="assets/lara.jpg" alt="Foto Lara" width="130px" height="50%" style="border-radius:20%; border: 2px solid black"/>
-                <h5 class="text-center">Lara<br>Siqueira</h5>
         </div>
         <div style="text-align: center;">
                 <img src="assets/arthur.jpg" alt="Foto Arthur" width="130px" height="50%" style="border-radius:20%; border: 2px solid black"/>
