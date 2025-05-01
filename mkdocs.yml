@@ -3,8 +3,8 @@ repo_url: https://github.com/th-org/LAMFO
 
 nav: 
   - Home: index.md
-  - Organização da oficina:
-    - Cronograma de apresentação: home.md
+  - Organização da Oficina:
+    - Cronograma de Apresentação: home.md
     - Heatmap: heatmap.md
   - Documentos das Pesquisa:
     - Dados na Escalação de Jogadores: dados-escalacao-jogadores.md
@@ -19,7 +19,7 @@ nav:
   - Atas:
     - Ata 1: atas/ata1.md
     - Ata 2: atas/ata2.md
-    - Ata modelo: atas/modelo.md
+    - Ata Modelo: atas/modelo.md
   - Artigos e Leituras: artigos.md
 
 theme: 
