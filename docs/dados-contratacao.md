@@ -51,20 +51,21 @@ Dados de Kaoru Mitoma na atual temporada, terceiro jogador com maior quantidade 
       - Quase uma década depois, a coleta de dados do Liverpool se aprofunda ainda mais.  Spearman, um físico nascido em Chicago e formado em Harvard, que passou cinco anos como cientista-chefe de dados do Liverpool antes de suceder Graham como diretor de pesquisa do clube em janeiro do ano passado, vem trabalhando em um algoritmo que avalia o desempenho dos treinadores com base em uma ampla gama de métricas — não apenas o desempenho da equipe, mas também o estilo de jogo, o desenvolvimento individual dos jogadores, a compatibilidade com diferentes tipos de jogadores etc. — para prever resultados futuros e a adequação para determinadas funções.
       - Os resultados de Slot, refletindo seu desempenho durante três temporadas no comando do Feyenoord, são considerados impressionantes: "O topo dos topos".  Hughes e Edwards já haviam mencionado Slot, entre outros, como um forte candidato. Mas não esperavam que os dados trouxessem um apoio tão contundente à sua candidatura.
       - Edwards e Hughes acreditam que o estilo de jogo ofensivo de Slot, emocionante, intenso, de alta pressão e baseado na posse de bola, preencheu os requisitos para energizar os jogadores e a torcida do Liverpool. Dada a confiança no talento que já existe no clube, eles estão convencidos de que seu estilo será adequado para o elenco que ele herdará. 
-      - Resultado disso tudo? Liverpool campeão na temporada de estreia do técnico Holandes, se tornando apenas o 5 a conquistar o titulo na temporada de estreia da Premier League.  
+      - Resultado disso tudo? Liverpool campeão na temporada de estreia do técnico Holandes, se tornando apenas o 5 a conquistar o título na temporada de estreia da Premier League e, o clube arrecadou até £180 milhões em premiações da liga, valor que inclui os maiores pagamentos por mérito (por terminar em primeiro lugar), taxas de instalação (por ter sido televisionado 29 vezes no Reino Unido) e outras parcelas relacionadas aos direitos de transmissão. Além disso, a conquista gerou um bônus adicional de £2 milhões da Nike, patrocinadora de material esportivo à época, e impulsionou um crescimento ainda maior nas receitas comerciais e de jogos.
+      
+      <p style="font-size: 12px;"> Fonte: <a href=https://www.nytimes.com/athletic/6315318/2025/05/01/how-much-liverpool-earned-by-winning-the-premier-league/.>How much Liverpool earned by winning the Premier League - The Athletic .</a></p>
 
 <p style="font-size: 12px;"> Fonte: <a href=https://www.nytimes.com/athletic/5441110/2024/05/20/liverpool-arne-slot-manager-inside-story/.>How Liverpool hired Arne Slot: The data, surprise contenders and why talks grew tense \- The Athletic.</a></p>
 
 **Quanto um clube pode ganhar, além das transferências, por contar com um departamento de dados bem estruturado e integrado?**  
 
   * A resposta está nos números: clubes que transformam dados em decisões impactam diretamente seu desempenho técnico e financeiro. Na temporada 2023/24 da Premier League, isso ficou evidente.  
-  * Para efeito de comparação, os três clubes analisados neste estudo — Brentford, Brighton e Liverpool — geraram receitas expressivas apenas com a participação na liga.
+  * Para efeito de comparação, os dois clubes de baixa renda analisados neste estudo, Brentford e o Brighton, geraram receitas expressivas apenas com a participação na liga.
 
 ![](./assets/image5.png)
 
-* O **Liverpool**, com forte presença em jogos transmitidos ao vivo e performance consistente, recebeu cerca de **£168 milhões**.  
-  * Já o **Brighton** e o **Brentford**, mesmo com estruturas menores, faturaram **£131,5 milhões** e **£124,3 milhões**, respectivamente — valores que demonstram como uma gestão eficiente e orientada por dados pode otimizar os ganhos, mesmo sem os maiores orçamentos da liga.  
-  * Esses números reforçam que **ter um departamento de dados bem integrado não é luxo, é investimento estratégico** — que gera valor dentro de campo, na tabela, e no caixa do clube.
+* O **Brighton** e o **Brentford**, mesmo com estruturas menores, faturaram **£131,5 milhões** e **£124,3 milhões**, respectivamente — valores que demonstram como uma gestão eficiente e orientada por dados pode otimizar os ganhos, mesmo sem os maiores orçamentos da liga.  
+* Esses números reforçam que **ter um departamento de dados bem integrado não é luxo, é investimento estratégico** — que gera valor dentro de campo, na tabela, e no caixa do clube.
 
 ---
 
@@ -162,6 +163,8 @@ Com a crescente adoção de tecnologias analíticas, o futebol do futuro será a
 ## Bibliografia
 
 > **THE ATHLETIC.** How Liverpool hired Arne Slot: The data, surprise contenders and why talks grew tense. *The Athletic*, 2024. Disponível em: [https://www.nytimes.com/athletic/5441110/2024/05/20/liverpool-arne-slot-manager-inside-story/](https://www.nytimes.com/athletic/5441110/2024/05/20/liverpool-arne-slot-manager-inside-story/). Acesso em: 30 abr. 2025.</p>
+> 
+> **BUCKINGHAM, Philip.** How much Liverpool earned by winning the Premier League. *The Athletic*, 2025. Disponível em: [https://www.nytimes.com/athletic/6315318/2025/05/01/how-much-liverpool-earned-by-winning-the-premier-league/](https://www.nytimes.com/athletic/6315318/2025/05/01/how-much-liverpool-earned-by-winning-the-premier-league/). Acesso em: 30 abr. 2025.</p>
 > 
 > **FBREF.** FBRef - Estatísticas de futebol. *FBRef*, [s.d.]. Disponível em: [https://fbref.com/pt/](https://fbref.com/pt/). Acesso em: 30 abr. 2025.</p>
 > 

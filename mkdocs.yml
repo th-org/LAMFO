@@ -10,7 +10,12 @@ nav:
     - Dados na Escalação de Jogadores: dados-escalacao-jogadores.md
     - Dados na Contratação de Jogadores: dados-contratacao.md
     - Dados na Análise Tática: dados-analise-tatica.md
-    - Estudo de Caso Real: estudo-caso-real.md
+  - Perguntas de Pesquisa:
+    - Pergunta 1: pergunta1.md
+    - Pergunta 2: pergunta2.md
+    - Pergunta 3: pergunta3.md
+    - Pergunta 4: pergunta4.md
+    - Pergunta 5: pergunta5.md
   - Atas:
     - Ata 1: atas/ata1.md
     - Ata 2: atas/ata2.md
