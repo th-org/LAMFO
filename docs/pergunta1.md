@@ -19,21 +19,37 @@ Já a ingestão de dados em streaming (stream processing) trata os dados à medi
 ### Situações em que cada abordagem é melhor para análises de dados de esporte
 
 **✅ Quando usar processamento em lote**
+
 Análise de desempenho pós-jogo:
- Compilar e processar dados de vários sensores, estatísticas e vídeos para gerar relatórios detalhados sobre o desempenho de jogadores após a partida.
+
+- Compilar e processar dados de vários sensores, estatísticas e vídeos para gerar relatórios detalhados sobre o desempenho de jogadores após a partida.
+
  → Segundo o *Airbyte*, o processamento em lote é ideal para análises complexas que não precisam de respostas imediatas, permitindo uso intensivo de recursos computacionais [3](#REF3).
 
-**Estudos históricos para melhoria de estratégias**
- Agrupar dados de múltiplos jogos ao longo de uma temporada para identificar padrões táticos e tendências de performance.
+<br>
+
+Estudos históricos para melhoria de estratégias
+
+- Agrupar dados de múltiplos jogos ao longo de uma temporada para identificar padrões táticos e tendências de performance.
+
  → Conforme aponta o *GeeksforGeeks*, o batch é excelente para cenários que exigem análise de grandes volumes de dados consolidados [1](#REF1).
 
+<br>
+
 **✅ Quando usar processamento em streaming**
+
 Monitoramento em tempo real durante partidas:
- Utilizar dados em tempo real de sensores vestíveis ou câmeras para identificar riscos de lesão, fadiga ou padrões táticos durante o jogo.
+
+- Utilizar dados em tempo real de sensores vestíveis ou câmeras para identificar riscos de lesão, fadiga ou padrões táticos durante o jogo.
+
  → Como afirma o artigo da *Restack*, o uso de IA e streaming em esportes permite decisões rápidas com base em dados ao vivo [4](#REF4).
 
-**Engajamento de torcedores em tempo real**
- Processar dados ao vivo (como jogadas, estatísticas e interações sociais) para gerar conteúdos dinâmicos em aplicativos ou transmissões.
+<br>
+
+Engajamento de torcedores em tempo real
+
+- Processar dados ao vivo (como jogadas, estatísticas e interações sociais) para gerar conteúdos dinâmicos em aplicativos ou transmissões.
+
  → De acordo com o *Atlan*, streaming é ideal quando há necessidade de reação rápida e entrega contínua de insights [2](#REF2).
 
 
