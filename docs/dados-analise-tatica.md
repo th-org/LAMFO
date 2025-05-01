@@ -70,9 +70,9 @@ Contagens (gols, assistências, % de passe) são intuitivas, mas não capturam c
 | VAEP | Δ prob. gol contra/pro gol em sequência de ações |
 | EPV | Valor esperado da posse a cada frame (tracking 25 Hz) |
 
-![fig1](/assets/tatica/image7.png)
+![fig1](./assets/tatica/image7.png)
 
-![fig2](/assets/tatica/image1.png)
+![fig2](./assets/tatica/image1.png)
 
 #### **3.4 Pressão & Defesa**
 
@@ -82,7 +82,7 @@ Contagens (gols, assistências, % de passe) são intuitivas, mas não capturam c
 | BDP | Variação da % passe rival na construção |
 | D‑VAEP | Δ prob. gol adversário por ação defensiva |
 
-![fig3](/assets/tatica/image8.png)
+![fig3](./assets/tatica/image8.png)
 
 #### **3.5 Clustering & Perfis**
 
@@ -90,14 +90,14 @@ Contagens (gols, assistências, % de passe) são intuitivas, mas não capturam c
 * PCA \+ t‑SNE/UMAP para visualização de alta dimensão.
 
 * Roles dinâmicos via tracking.  
-  ![fig4](/assets/tatica/image5.png)
-  ![fig5](/assets/tatica/image2.png)
+  ![fig4](./assets/tatica/image5.png)
+  ![fig5](./assets/tatica/image2.png)
 
 ---
 
 ### **4\. Fluxo de processamento e modelagem**
 
-![fig6](/assets/tatica/image3.png)
+![fig6](./assets/tatica/image3.png)
 
 ---
 
@@ -118,9 +118,9 @@ Contagens (gols, assistências, % de passe) são intuitivas, mas não capturam c
 * **Hamiltonian MC/NUTS**, SGLD/SGHMC e inferência variacional para acelerar.
 * Priors hierárquicos e sequential MC para evitar overfitting.
 
-![fig7](/assets/tatica/image4.png)
+![fig7](./assets/tatica/image4.png)
 
-![fig8](/assets/tatica/image6.png)
+![fig8](./assets/tatica/image6.png)
 
 #### **5.3 Feature Engineering Avançado**
 
