@@ -8,7 +8,7 @@ O futebol, por décadas, foi movido quase exclusivamente pela intuição, experi
 
 ### 1. Contratações Ontem e Hoje: Do Achismo ao Algoritmo
 
-As decisões ficavam, em grande parte, nas mãos do diretor de futebol e do técnico, que se baseiam em experiências pessoais passadas — como já ter enfrentado o jogador, ter visto algum vídeo, ou até por conta da influência de empresários que faziam lobby junto à diretoria. Essas análises, muitas vezes subjetivas e sem critérios técnicos claros, podiam facilmente ser enviesadas, beneficiando apenas um dos lados da negociação. Em resumo, era um processo com pouca transparência e sem embasamento analítico confiável.  
+As decisões ficavam, em grande parte, nas mãos do diretor de futebol e do técnico, que se baseiam em experiências pessoais passadas — como já ter enfrentado o jogador, ter visto algum vídeo, ou até por conta da influência de empresários que faziam lobby junto à diretoria. Essas análises, muitas vezes subjetivas e sem critérios técnicos claros, podiam facilmente ser enviesadas, beneficiando apenas um dos lados da negociação. Em resumo, era um processo com pouca transparência e sem embasamento analítico confiável. Hoje, graças a quantidade de empresas que geram dados como, [Hudl StatsBomb](https://statsbomb.com/pt-pt/), [OptaAnalyst](https://theanalyst.com/), [FBRef](https://fbref.com/pt/) e [SofaScore](https://www.sofascore.com/pt/), os clubes podem ter uma analise de dados muito completa usando esses dados.
 
 ---
 
@@ -72,7 +72,7 @@ Dados de Kaoru Mitoma na atual temporada, terceiro jogador com maior quantidade 
 
 #### 3.1. Atlético-MG: CIGA como Referência
 
-O Atlético-MG estabeleceu o CIGA (Centro de Inteligência e Gestão do Atlético-MG) como um pilar fundamental na sua estratégia de futebol. Com um banco de dados que abrange mais de 50 mil atletas, o clube realizou análises de vídeo em 6.600 jogadores de 38 ligas diferentes em 2024. Os critérios de avaliação incluem:
+O Atlético foi pioneiro no Brasil ao ter um departamento exclusivo para Análise de Dados. O CIGA funciona como um departamento de informação que subsidia o departamento de futebol. Seu principal propósito é embasar as decisões do clube nas questões ligadas ao futebol, utilizando ferramentas de análise. É fundamental destacar que o CIGA não toma as decisões finais de contratação ou venda, apenas oferece o suporte informacional para que os tomadores de decisão (como o comitê de futebol e a diretoria) possam agir com confiança. Os critérios de avaliação incluem:
 
 - Rendimento atual vs. projeção futura
 - Comportamento tático específico
@@ -80,6 +80,8 @@ O Atlético-MG estabeleceu o CIGA (Centro de Inteligência e Gestão do Atlétic
 - Adaptação ao modelo de jogo do clube
 
 Após essa triagem, os atletas passam por um processo que envolve observação in loco, verificação de histórico de lesões, análise de contexto e viabilidade financeira. Um diferencial do CIGA é o "background check", que avalia aspectos extracampo dos jogadores, garantindo uma contratação alinhada aos valores e necessidades do clube.
+
+![](./assets/image7.png)
 
 #### 3.2. Botafogo: Parcerias Estratégicas para Potencializar a Análise de Dados
 
@@ -120,7 +122,14 @@ Além dos dados, a reunião de apresentação do "projeto Galo", onde Lyanco foi
 
 ### 5. Mais do que Estatísticas: A Complexidade por Trás dos Números
 
-- O uso de dados no futebol vai além da análise de jogadores. A contratação do técnico Gabriel Milito, por exemplo, passou também pelo crivo do CIGA, que começou a análise com 500 nomes, chegou em 20, depois com uma maior análise, chegou em 4 escolhidos. Foi avaliado o seu modelo de jogo, compatibilidade com o elenco atual e perfil comportamental. O clube buscava um treinador com ideias ofensivas, que valorizasse a posse de bola e se adaptasse rapidamente ao ambiente brasileiro — critérios que ultrapassam a estatística bruta.
+- O uso de dados no futebol vai além da análise de jogadores. A contratação do técnico Gabriel Milito, por exemplo, passou também pelo crivo do CIGA. O Atlético-MG preparou uma apresentação para a reunião com o treinador, na qual o clube detalha como chegou ao nome do treinador. O processo para selecionar o treinador começou com uma análise de mais de 500 treinadores. Essa lista foi então reduzida para 20 nomes, chegando posteriormente aos quatro escolhidos.
+- Durante esse processo, foram apresentados dados qualitativos e quantitativos dos treinadores avaliados. O Ciga (Centro de Informação do Galo) realizou uma análise de dados para verificar o quanto Milito se encaixaria no estilo de jogo do clube. No total, 17 partidas do treinador foram analisadas. Além da análise de dados e jogos, o clube também observou as entrevistas de Gabriel Milito, avaliando sua forma de se comunicar nas coletivas, bem como o comportamento do argentino.
+
+![](./assets/image6.png)
+![](./assets/image9.png)
+![](./assets/image8.png)
+
+- Em 2024, o clube mineiro alcançou a final da Libertadores e da Copa do Brasil, encerrando a temporada como vice-campeão nas duas competições. Sob o comando de Gabriel Milito, a equipe demonstrou consistência e evolução, garantindo R$ 92,8 milhões em premiação no torneio continental e mais R$ 51,14 milhões na Copa do Brasil. Ao todo, o Galo arrecadou R$ 143,94 milhões apenas com essas campanhas, consolidando o impacto positivo do trabalho do treinador argentino.
 - Outro ponto importante é o equilíbrio do elenco: o Atlético-MG busca manter uma base de atletas experientes enquanto desenvolve jovens com potencial de mercado. Essa estratégia é monitorada continuamente pelo departamento de inteligência.
 - Além do desempenho em campo, o background check é uma etapa essencial: o clube investiga a vida pessoal e profissional dos atletas, avaliando histórico de lesões, comportamento extra-campo e perfil psicológico — um trabalho que demonstra a profundidade do processo.
 
@@ -130,7 +139,13 @@ Além dos dados, a reunião de apresentação do "projeto Galo", onde Lyanco foi
 
 ### 6. Perspectivas Futuras: Para Onde Caminha o Futebol com Dados?
 
-- O avanço dos departamentos de análise no Brasil é notável. Clubes como Botafogo, Red Bull Bragantino e São Paulo vêm investindo em estruturas semelhantes à do Atlético, ampliando o uso estratégico de dados.
+- Crescimento de departamentos de análise em clubes brasileiros (Botafogo, Red Bull Bragantino, São Paulo).
+
+    - O uso de dados no futebol ainda enfrenta certa resistência, especialmente entre os clubes brasileiros. Muitos times ainda não contam com um departamento especializado em análise e tratamento de dados, priorizando contratações — muitas vezes feitas no escuro — em vez de investir em inteligência esportiva.
+
+    - Apesar disso, o cenário tem sinais promissores de mudança. Clubes como Red Bull Bragantino, Botafogo, Atlético-MG, Palmeiras e Flamengo já adotam práticas mais consistentes no uso de dados para embasar decisões. Ainda assim, o nível de maturidade está distante do que se observa na Premier League, referência nesse campo.
+
+    - A tendência, porém, é de evolução. Com o avanço das discussões sobre uma liga nacional e o crescimento expressivo das SAFs no Brasil, o tema tende a se popularizar. Resta ver como os clubes irão se adaptar para estruturar departamentos de dados sólidos, capazes de transformar informação em vantagem competitiva.
 
 - No entanto, esse crescimento levanta questões importantes: quem deve controlar os dados dos atletas? Os clubes que os coletam? As empresas que os processam? Ou os próprios jogadores? A discussão sobre privacidade e uso ético das informações já começa a surgir nos bastidores do futebol.
 
