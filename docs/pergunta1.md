@@ -7,9 +7,14 @@ hide:
 # **Qual a diferença entre ingestão de dados em lote e em streaming? Cite 2 situações em que cada abordagem é melhor que a outra para análises de dados de esporte**
 
 A ingestão de dados em lote (batch processing) envolve a coleta, armazenamento e processamento de grandes volumes de dados acumulados ao longo do tempo. Os dados são processados de forma periódica, geralmente com uma latência maior, o que é ideal para análises históricas e relatórios agregados.
- → Conforme o *GeeksforGeeks* destaca, esse modelo é eficiente para grandes quantidades de dados que não exigem respostas em tempo real [1].
+  
+→ Conforme o *GeeksforGeeks* destaca, esse modelo é eficiente para grandes quantidades de dados que não exigem respostas em tempo real [1](#referências).
+
+<br>
+
 Já a ingestão de dados em streaming (stream processing) trata os dados à medida que eles são gerados, em tempo real ou quase real. Isso permite a detecção imediata de eventos e decisões baseadas em dados atualizados.
- → Como explica o *Atlan*, essa abordagem é essencial quando a velocidade de resposta e a atualidade dos dados são críticos [2].
+
+ → Como explica o *Atlan*, essa abordagem é essencial quando a velocidade de resposta e a atualidade dos dados são críticos [2](#referências).
 
 ### Situações em que cada abordagem é melhor para análises de dados de esporte
 
