@@ -184,4 +184,10 @@ Com a crescente adoção de tecnologias analíticas, o futebol do futuro será a
 >
 > CAREY, Mark. How data departments have evolved and spread across English football clubs. The Athletic, 3 set. 2024. Disponível em: [https://www.nytimes.com/athletic/5697684/2024/09/03/football-analytics-uk-evolution/](https://www.nytimes.com/athletic/5697684/2024/09/03/football-analytics-uk-evolution/). Acesso em: 30 abr. 2025.​
 
+### Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) |
+| ------ | ---- | --------- | --------- |
+|`1.0`|01/05/2025| Passando a pesquisa do membro para o site | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+
 [Link para o documento de organização](https://docs.google.com/document/d/1Kbm_D0azWeWWit153eQ_fyVsM7tAsjoh0MA0pvCZrO0/edit?usp=sharing)

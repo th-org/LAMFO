@@ -230,4 +230,10 @@ Contagens (gols, assistências, % de passe) são intuitivas, mas não capturam c
 >
 > F. R. Goes *et al.*, “Unlocking the potential of big data to support tactical performance analysis in professional soccer: A systematic review”, *Eur. J. Sport Sci.*, vol. 21, no 4, p. 481–496, abr. 2021, doi: [10.1080/17461391.2020.1747552](https://doi.org/10.1080/17461391.2020.1747552).  
 
+### Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) |
+| ------ | ---- | --------- | --------- |
+|`1.0`|01/05/2025| Passando a pesquisa do membro para o site | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+
 [Link para o documento de organização](https://docs.google.com/document/d/1K23WhHtLVzY9GAIbjBjsXnqs8-OQjaSJjINWELJOY8k/edit?usp=sharing)

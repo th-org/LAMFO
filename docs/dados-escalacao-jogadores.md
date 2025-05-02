@@ -113,4 +113,10 @@ Fonte: [https://www.goodreads.com/book/show/22400946-pep-confidential/](https://
 >
 > **GOOGLE SCHOLAR.** Artificial intelligence sports analytics football. *Google Scholar*, [s.d.]. Disponível em: [https://scholar.google.com/scholar?q=artificial+intelligence+sports+analytics+football.](https://scholar.google.com/scholar?q=artificial+intelligence+sports+analytics+football.) Acesso em: 30 abr. 2025.
 
+### Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) |
+| ------ | ---- | --------- | --------- |
+|`1.0`|01/05/2025| Passando a pesquisa do membro para o site | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+
 [Link para o documento de organização](https://docs.google.com/document/d/18EK2Og0RotStmt8G-Gqv17C8Qk32VYvzG4ybkhcFcFk/edit?usp=sharing)

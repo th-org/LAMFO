@@ -32,3 +32,9 @@ A partir dos dados analisados, é possível afirmar que a Lei de Tobler se aplic
 ### Referências
 
 > MCCARRICK, Dane; BILALIC, Merim; NEAVE, Nick; WOLFSON, Sandy. Home advantage during the COVID-19 pandemic: Analyses of European football leagues. Psychology of Sport and Exercise, [S.l.], v. 56, p. 102013, set. 2021. Disponível em: [https://www.sciencedirect.com/science/article/pii/S146902922100131X](https://www.sciencedirect.com/science/article/pii/S146902922100131X). Acesso em: 1 maio 2025.
+
+### Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) |
+| ------ | ---- | --------- | --------- |
+|`1.0`|01/05/2025| Passando a pesquisa do membro para o site | [Thales Euflauzino](https://github.com/thaleseuflauzino) |

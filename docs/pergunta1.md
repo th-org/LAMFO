@@ -64,3 +64,9 @@ Engajamento de torcedores em tempo real
 > [3]<a id=REF3></a> Airbyte. Batch vs. Stream Processing in Data Engineering. Disponível em : [https://airbyte.com/data-engineering-resources/batch-processing-vs-stream-processing](https://airbyte.com/data-engineering-resources/batch-processing-vs-stream-processing). Acesso em 01 de maio de 2025.
 > 
 > [4]<a id=REF4></a> Restack. AI in Sports Analytics and Real-Time Data. Disponível em : [https://www.restack.io/p/ai-in-sports-analytics-answer-real-time-data-processing-cat-ai](https://www.restack.io/p/ai-in-sports-analytics-answer-real-time-data-processing-cat-ai). Acesso em 01 de maio de 2025.
+
+### Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) |
+| ------ | ---- | --------- | --------- |
+|`1.0`|01/05/2025| Passando a pesquisa do membro para o site | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
